@@ -1,7 +1,8 @@
 # Noisy_Classification
 
 ## Proje Yapısı
-noise-classification/
+noise-classification/ 
+
 ├── data_split.py           
 ├── train_models.py           
 ├── test_models.py         

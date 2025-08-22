@@ -7,7 +7,6 @@ noise-classification/
 ├── train_models.py           
 ├── test_models.py         
 ├── models.py             
-├── .gitignore           
 ├── noisy_dataset/      
 │   ├── gaussian/
 │   ├── perlin/

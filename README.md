@@ -1,5 +1,7 @@
 # Noisy_Classification
 
+Dataset Drive Linki: https://drive.google.com/file/d/1Fx9jhH_Wvzkx4u1nxPuBwBWusS7FvD5F/view?usp=drive_link
+
 ## Proje Yapısı
 noise-classification/ 
 
